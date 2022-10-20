@@ -1,0 +1,5 @@
+﻿empID,empPassword,empBusinessName,empContactName,empPhone,empEmail,empAddress,empSecAns,empJoinDate
+E001,x56GHv*y,O'Reilly LLC,John O'Reilly,631-625-2659,oreillybusiness@gmail.com,143 Wakefield Ave Bohemia NY 11716,Sponge,5/10/2018
+E002,c65GU8$K,SGH Inc.,Bill Smith,631-527-4516,sghcompany@gmail.com,89 Johnson Rd Brooklyn NY 11787,Cat,4/11/2016
+E003,Agc$xv*mk,Ernser LLC,Michael Ernser,516-956-2717,ernserllc@yahoo.com,5678 Motor Dr Seaford NY 11783,Tesla,9/10/2019
+E004,acxs$hi45,Cushman & Wakefield,Susan Cushman,516-940-5472,c&wbusiness@outlook.com,456 171st St Queens NY 11365,Boeing,6/5/2021
